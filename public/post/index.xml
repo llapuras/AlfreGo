@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AlfreGo</title>
+    <link>http://llapuras.top/post/</link>
+    <description>Recent content in Posts on AlfreGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 11 Dec 2018 05:15:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://llapuras.top/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【游戏日记】SAO IF</title>
+      <link>http://llapuras.top/2018/12/%E6%B8%B8%E6%88%8F%E6%97%A5%E8%AE%B0sao-if/</link>
+      <pubDate>Tue, 11 Dec 2018 05:15:25 +0800</pubDate>
+      
+      <guid>http://llapuras.top/2018/12/%E6%B8%B8%E6%88%8F%E6%97%A5%E8%AE%B0sao-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>臭猫猫观察日记1211</title>
+      <link>http://llapuras.top/2018/12/%E8%87%AD%E7%8C%AB%E7%8C%AB%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B01211/</link>
+      <pubDate>Tue, 11 Dec 2018 05:15:25 +0800</pubDate>
+      
+      <guid>http://llapuras.top/2018/12/%E8%87%AD%E7%8C%AB%E7%8C%AB%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B01211/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
